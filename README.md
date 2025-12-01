@@ -34,4 +34,7 @@ Diagram reference image : [here](https://github.com/kingston-hackSpace/MQ3_Ethan
 ----
 ### CODE AND INSTRUCTIONS
 
+- Upload [this code](https://github.com/kingston-hackSpace/MQ3_Ethanol_detector/blob/main/MQ3.ino) to your Arduino Board
+
+- Open Arduino's Serial Monitor to visualize incoming sensor data
 
