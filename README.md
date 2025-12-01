@@ -22,7 +22,13 @@ More info : [here](https://lastminuteengineers.com/mq3-alcohol-sensor-arduino-tu
 ----
 ### WIRING
 
-Diagram reference image : [here]
+Diagram reference image : [here](https://github.com/kingston-hackSpace/MQ3_Ethanol_detector/blob/main/MQ3_Diagram.png)
+
+| MQ3             | Connect to Arduino   |
+| --------------- | -------------------- |
+| VCC             | Arduino 5V           |
+| GND             | Arduino GND          |
+| AO (analog out) | Arduino A0 pin       |
 
 
 ----
